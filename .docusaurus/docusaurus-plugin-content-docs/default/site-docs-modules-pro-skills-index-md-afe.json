@@ -1,0 +1,28 @@
+{
+  "id": "modules/pro_skills/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/modules/pro_skills/index.md",
+  "sourceDirName": "modules/pro_skills",
+  "slug": "/modules/pro_skills/",
+  "permalink": "/docs/modules/pro_skills/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/pro_skills/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Professional Skills",
+    "sidebar_position": 5
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Big Data and Analytics",
+    "permalink": "/docs/modules/specialization/big_data"
+  },
+  "next": {
+    "title": "Customer Presentations",
+    "permalink": "/docs/modules/pro_skills/customer"
+  }
+}

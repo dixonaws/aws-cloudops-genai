@@ -1,0 +1,29 @@
+{
+  "id": "modules/cloud/security",
+  "title": "Security and Compliance",
+  "description": "In this section, you'll learn about the fundamentals of AWS security controls, including:",
+  "source": "@site/docs/modules/cloud/security.md",
+  "sourceDirName": "modules/cloud",
+  "slug": "/modules/cloud/security",
+  "permalink": "/docs/modules/cloud/security",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/cloud/security.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Security and Compliance",
+    "sidebar_position": 7,
+    "title": "Security and Compliance"
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Cloud Administration",
+    "permalink": "/docs/modules/cloud/"
+  },
+  "next": {
+    "title": "Automation, Deployment, and Provisioning",
+    "permalink": "/docs/modules/cloud/automation"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "modules/specialization/index",
+  "title": "Specialization Tracks",
+  "description": "During the instructor-led classes, students are invited to take a specialty in on of three areas, consisting of 1-4 additional sessions with an expert:",
+  "source": "@site/docs/modules/specialization/index.md",
+  "sourceDirName": "modules/specialization",
+  "slug": "/modules/specialization/",
+  "permalink": "/docs/modules/specialization/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/specialization/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Specializations",
+    "sidebar_position": 4,
+    "title": "Specialization Tracks"
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Monitoring and Observability",
+    "permalink": "/docs/modules/cloud/monitoring"
+  },
+  "next": {
+    "title": "Generative AI",
+    "permalink": "/docs/modules/specialization/genai"
+  }
+}

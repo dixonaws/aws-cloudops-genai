@@ -1,0 +1,29 @@
+{
+  "id": "modules/fundamentals/linux",
+  "title": "Linux Administration Basics",
+  "description": "In this module, students learn the basics of Linux server administration. As this is a fundamental skill in",
+  "source": "@site/docs/modules/fundamentals/linux.md",
+  "sourceDirName": "modules/fundamentals",
+  "slug": "/modules/fundamentals/linux",
+  "permalink": "/docs/modules/fundamentals/linux",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/fundamentals/linux.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Linux Administration Basics",
+    "title": "Linux Administration Basics",
+    "sidebar_position": 3
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Fundamentals",
+    "permalink": "/docs/modules/fundamentals/"
+  },
+  "next": {
+    "title": "Networking in AWS",
+    "permalink": "/docs/modules/fundamentals/networking_in_aws"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "modules/fundamentals/tier_apps",
+  "title": "Building 3-tier Applications",
+  "description": "This workshop is a hands-on walk through of a three-tier web architecture in AWS. We will be manually",
+  "source": "@site/docs/modules/fundamentals/3_tier_apps.md",
+  "sourceDirName": "modules/fundamentals",
+  "slug": "/modules/fundamentals/tier_apps",
+  "permalink": "/docs/modules/fundamentals/tier_apps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/fundamentals/3_tier_apps.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Building 3-tier Applications",
+    "sidebar_position": 6,
+    "title": "Building 3-tier Applications"
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Advanced Linux",
+    "permalink": "/docs/modules/fundamentals/advanced_linux"
+  },
+  "next": {
+    "title": "Cloud Administration",
+    "permalink": "/docs/modules/cloud/"
+  }
+}

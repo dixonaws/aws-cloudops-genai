@@ -1,0 +1,25 @@
+{
+  "id": "introduction/applications/index",
+  "title": "Applications of GenAI",
+  "description": "Genai is big",
+  "source": "@site/docs/introduction/applications/index.md",
+  "sourceDirName": "introduction/applications",
+  "slug": "/introduction/applications/",
+  "permalink": "/docs/introduction/applications/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/applications/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Applications of GenAI",
+    "sidebar_position": 1,
+    "weight": 10
+  },
+  "sidebar": "introduction",
+  "next": {
+    "title": "Enterprise Applications",
+    "permalink": "/docs/introduction/applications/enterprise-apps"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "modules/pro_skills/resume_interview_prep",
+  "title": "resume_interview_prep",
+  "description": "",
+  "source": "@site/docs/modules/pro_skills/resume_interview_prep.md",
+  "sourceDirName": "modules/pro_skills",
+  "slug": "/modules/pro_skills/resume_interview_prep",
+  "permalink": "/docs/modules/pro_skills/resume_interview_prep",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/pro_skills/resume_interview_prep.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_label": "Resume and Interview Prep",
+    "sidebar_position": 11
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Customer Presentations",
+    "permalink": "/docs/modules/pro_skills/customer"
+  }
+}

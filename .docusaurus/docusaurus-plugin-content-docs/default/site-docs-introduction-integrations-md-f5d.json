@@ -1,0 +1,29 @@
+{
+  "id": "introduction/integrations",
+  "title": "Application Integrations",
+  "description": "Genai is big",
+  "source": "@site/docs/introduction/integrations.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/integrations",
+  "permalink": "/docs/introduction/integrations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/integrations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Application Integrations",
+    "sidebar_position": 1,
+    "weight": 4
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/introduction/"
+  },
+  "next": {
+    "title": "GenAI vs. AI in General",
+    "permalink": "/docs/introduction/relation-to-ai"
+  }
+}

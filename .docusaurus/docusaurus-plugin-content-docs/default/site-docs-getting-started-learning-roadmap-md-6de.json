@@ -1,0 +1,19 @@
+{
+  "id": "getting_started/learning_roadmap",
+  "title": "Learning Roadmap",
+  "description": "Course content for each module can be found in the Modules area. Each section has associated homework",
+  "source": "@site/docs/getting_started/learning_roadmap.md",
+  "sourceDirName": "getting_started",
+  "slug": "/getting_started/learning_roadmap",
+  "permalink": "/docs/getting_started/learning_roadmap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/getting_started/learning_roadmap.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Learning Roadmap",
+    "sidebar_position": 2
+  }
+}

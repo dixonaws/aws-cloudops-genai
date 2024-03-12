@@ -1,0 +1,29 @@
+{
+  "id": "introduction/applications/text-gen",
+  "title": "Text and Image Generation",
+  "description": "Genai is big",
+  "source": "@site/docs/introduction/applications/text-gen.md",
+  "sourceDirName": "introduction/applications",
+  "slug": "/introduction/applications/text-gen",
+  "permalink": "/docs/introduction/applications/text-gen",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/applications/text-gen.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Text and Image Generation",
+    "sidebar_position": 1,
+    "weight": 11
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Enterprise Applications",
+    "permalink": "/docs/introduction/applications/enterprise-apps"
+  },
+  "next": {
+    "title": "Buzzwords Decoded!",
+    "permalink": "/docs/introduction/buzzwords"
+  }
+}

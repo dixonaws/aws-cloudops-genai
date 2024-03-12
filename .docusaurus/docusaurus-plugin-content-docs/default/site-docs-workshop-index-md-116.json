@@ -1,0 +1,21 @@
+{
+  "id": "workshop/index",
+  "title": "Introduction",
+  "description": "Genai is big",
+  "source": "@site/docs/workshop/index.md",
+  "sourceDirName": "workshop",
+  "slug": "/workshop/",
+  "permalink": "/docs/workshop/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/workshop/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "sidebar_position": 1,
+    "weight": 5
+  },
+  "sidebar": "workshop"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "modules/cloud/monitoring",
+  "title": "Monitoring and Observability",
+  "description": "Monitoring and observability in AWS generally includes a discussion of the following services:",
+  "source": "@site/docs/modules/cloud/monitoring.md",
+  "sourceDirName": "modules/cloud",
+  "slug": "/modules/cloud/monitoring",
+  "permalink": "/docs/modules/cloud/monitoring",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/cloud/monitoring.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_label": "Monitoring and Observability",
+    "sidebar_position": 9,
+    "title": "Monitoring and Observability"
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Automation, Deployment, and Provisioning",
+    "permalink": "/docs/modules/cloud/automation"
+  },
+  "next": {
+    "title": "Specializations",
+    "permalink": "/docs/modules/specialization/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "introduction/contact",
+  "title": "Contact Us",
+  "description": "Contact drewjeff@amazon.com",
+  "source": "@site/docs/introduction/contact.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/contact",
+  "permalink": "/docs/introduction/contact",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/contact.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Contact Us",
+    "sidebar_position": 7
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Joining Instructor-led Training",
+    "permalink": "/docs/introduction/instructorled"
+  }
+}

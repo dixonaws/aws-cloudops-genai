@@ -1,0 +1,87 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "introduction/applications/index",
+          "docs": [
+            {
+              "id": "getting_started/index",
+              "path": "/docs/getting_started/"
+            },
+            {
+              "id": "getting_started/learning_roadmap",
+              "path": "/docs/getting_started/learning_roadmap"
+            },
+            {
+              "id": "introduction/applications/enterprise-apps",
+              "path": "/docs/introduction/applications/enterprise-apps",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/applications/index",
+              "path": "/docs/introduction/applications/",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/applications/text-gen",
+              "path": "/docs/introduction/applications/text-gen",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/buzzwords",
+              "path": "/docs/introduction/buzzwords",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/index",
+              "path": "/docs/introduction/",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/integrations",
+              "path": "/docs/introduction/integrations",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/relation-to-ai",
+              "path": "/docs/introduction/relation-to-ai",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "introduction/security",
+              "path": "/docs/introduction/security",
+              "sidebar": "introduction"
+            },
+            {
+              "id": "workshop/index",
+              "path": "/docs/workshop/",
+              "sidebar": "workshop"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "introduction": {
+              "link": {
+                "path": "/docs/introduction/applications/",
+                "label": "Applications of GenAI"
+              }
+            },
+            "workshop": {
+              "link": {
+                "path": "/docs/workshop/",
+                "label": "workshop/index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "modules/index",
+  "title": "Modules",
+  "description": "Ideally, you should follow the modules in order and complete all of the homework. The homework is designed to be",
+  "source": "@site/docs/modules/index.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/",
+  "permalink": "/docs/modules/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Modules",
+    "sidebar_position": 1,
+    "weight": 5
+  },
+  "sidebar": "modules",
+  "next": {
+    "title": "Fundamentals",
+    "permalink": "/docs/modules/fundamentals/"
+  }
+}

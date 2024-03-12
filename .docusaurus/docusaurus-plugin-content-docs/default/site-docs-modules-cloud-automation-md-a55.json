@@ -1,0 +1,29 @@
+{
+  "id": "modules/cloud/automation",
+  "title": "Automation, Deployment, and Provisioning",
+  "description": "Automation, automated deployment, and infrastructute as code are core skills in any cloud engineer's",
+  "source": "@site/docs/modules/cloud/automation.md",
+  "sourceDirName": "modules/cloud",
+  "slug": "/modules/cloud/automation",
+  "permalink": "/docs/modules/cloud/automation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/cloud/automation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Automation, Deployment, and Provisioning",
+    "sidebar_position": 8,
+    "title": "Automation, Deployment, and Provisioning"
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Security and Compliance",
+    "permalink": "/docs/modules/cloud/security"
+  },
+  "next": {
+    "title": "Monitoring and Observability",
+    "permalink": "/docs/modules/cloud/monitoring"
+  }
+}

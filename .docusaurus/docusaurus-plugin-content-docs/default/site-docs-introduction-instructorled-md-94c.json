@@ -1,0 +1,24 @@
+{
+  "id": "introduction/instructorled",
+  "title": "Joining Instructor-led Training",
+  "description": "Instructor-led training is closed for 2024, but stay tuned for the 2025 invitation which will begin in February.",
+  "source": "@site/docs/introduction/instructorled.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/instructorled",
+  "permalink": "/docs/introduction/instructorled",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/instructorled.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Joining Instructor-led Training",
+    "sidebar_position": 6
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Philosophy",
+    "permalink": "/docs/introduction/philosophy"
+  }
+}

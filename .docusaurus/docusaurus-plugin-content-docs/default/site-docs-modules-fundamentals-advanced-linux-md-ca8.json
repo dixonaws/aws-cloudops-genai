@@ -1,0 +1,29 @@
+{
+  "id": "modules/fundamentals/advanced_linux",
+  "title": "Advanced Linux",
+  "description": "In this module, students return to learn advanced Linux server administration and some Identify and",
+  "source": "@site/docs/modules/fundamentals/advanced_linux.md",
+  "sourceDirName": "modules/fundamentals",
+  "slug": "/modules/fundamentals/advanced_linux",
+  "permalink": "/docs/modules/fundamentals/advanced_linux",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/fundamentals/advanced_linux.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Advanced Linux",
+    "sidebar_position": 5,
+    "title": "Advanced Linux"
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Storage and Data Management",
+    "permalink": "/docs/modules/fundamentals/storage"
+  },
+  "next": {
+    "title": "Building 3-tier Applications",
+    "permalink": "/docs/modules/fundamentals/tier_apps"
+  }
+}

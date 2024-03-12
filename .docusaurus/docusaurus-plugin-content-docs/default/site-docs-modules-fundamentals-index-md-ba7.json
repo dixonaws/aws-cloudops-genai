@@ -1,0 +1,29 @@
+{
+  "id": "modules/fundamentals/index",
+  "title": "Fundamentals",
+  "description": "In this section:",
+  "source": "@site/docs/modules/fundamentals/index.md",
+  "sourceDirName": "modules/fundamentals",
+  "slug": "/modules/fundamentals/",
+  "permalink": "/docs/modules/fundamentals/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/fundamentals/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Fundamentals",
+    "sidebar_position": 2,
+    "title": "Fundamentals"
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Modules",
+    "permalink": "/docs/modules/"
+  },
+  "next": {
+    "title": "Linux Administration Basics",
+    "permalink": "/docs/modules/fundamentals/linux"
+  }
+}

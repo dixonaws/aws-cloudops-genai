@@ -1,0 +1,29 @@
+{
+  "id": "introduction/index",
+  "title": "Introduction",
+  "description": "Genai is big",
+  "source": "@site/docs/introduction/index.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/",
+  "permalink": "/docs/introduction/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction",
+    "sidebar_position": 1,
+    "weight": 5
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Buzzwords Decoded!",
+    "permalink": "/docs/introduction/buzzwords"
+  },
+  "next": {
+    "title": "Application Integrations",
+    "permalink": "/docs/introduction/integrations"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "introduction/applications/relation-to-ai",
+  "title": "GenAI vs. AI in General",
+  "description": "Genai is big",
+  "source": "@site/docs/introduction/applications/relation-to-ai.md",
+  "sourceDirName": "introduction/applications",
+  "slug": "/introduction/applications/relation-to-ai",
+  "permalink": "/docs/introduction/applications/relation-to-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/applications/relation-to-ai.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "GenAI vs. AI in General",
+    "sidebar_position": 1,
+    "weight": 5
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/introduction/applications/enterprise-apps"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/introduction/applications/text-gen"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "getting_started/index",
+  "title": "Getting Started",
+  "description": "Silver Lining consists of six stages, as shown below. Only one of them is hands-on, learning the material!",
+  "source": "@site/docs/getting_started/index.md",
+  "sourceDirName": "getting_started",
+  "slug": "/getting_started/",
+  "permalink": "/docs/getting_started/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/getting_started/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Getting Started",
+    "sidebar_position": 1,
+    "weight": 5
+  }
+}

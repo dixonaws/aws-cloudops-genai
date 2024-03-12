@@ -1,0 +1,29 @@
+{
+  "id": "modules/specialization/big_data",
+  "title": "Big Data and Analytics",
+  "description": "Optional specialization. A discussion of Big Data generally includes:",
+  "source": "@site/docs/modules/specialization/big_data.md",
+  "sourceDirName": "modules/specialization",
+  "slug": "/modules/specialization/big_data",
+  "permalink": "/docs/modules/specialization/big_data",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/specialization/big_data.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_label": "Big Data and Analytics",
+    "sidebar_position": 12,
+    "title": "Big Data and Analytics"
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Containers",
+    "permalink": "/docs/modules/specialization/containers"
+  },
+  "next": {
+    "title": "Professional Skills",
+    "permalink": "/docs/modules/pro_skills/"
+  }
+}

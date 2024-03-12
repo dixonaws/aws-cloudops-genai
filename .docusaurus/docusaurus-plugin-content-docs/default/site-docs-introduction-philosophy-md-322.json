@@ -1,0 +1,38 @@
+{
+  "id": "introduction/philosophy",
+  "title": "Philosophy",
+  "description": "This is not a coding bootcamp. We realize that you can search the internet and skill up",
+  "source": "@site/docs/introduction/philosophy.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/philosophy",
+  "permalink": "/docs/introduction/philosophy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/philosophy.md",
+  "tags": [
+    {
+      "label": "about",
+      "permalink": "/docs/tags/about"
+    },
+    {
+      "label": "philosophy",
+      "permalink": "/docs/tags/philosophy"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "id": "philosophy",
+    "title": "Philosophy",
+    "tags": [
+      "about",
+      "philosophy"
+    ]
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/introduction/"
+  }
+}

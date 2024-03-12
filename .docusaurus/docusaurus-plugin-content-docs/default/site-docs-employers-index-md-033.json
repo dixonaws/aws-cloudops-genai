@@ -1,0 +1,21 @@
+{
+  "id": "employers/index",
+  "title": "For Employers and Hiring Managers",
+  "description": "Under Construction",
+  "source": "@site/docs/employers/index.md",
+  "sourceDirName": "employers",
+  "slug": "/employers/",
+  "permalink": "/docs/employers/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/employers/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "For Employers",
+    "sidebar_position": 3,
+    "title": "For Employers and Hiring Managers"
+  },
+  "sidebar": "employers"
+}

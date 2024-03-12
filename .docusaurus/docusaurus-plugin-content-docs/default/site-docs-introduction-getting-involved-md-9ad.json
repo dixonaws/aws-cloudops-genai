@@ -1,0 +1,28 @@
+{
+  "id": "introduction/getting-involved",
+  "title": "Getting Involved",
+  "description": "Interested to help with Silver Lining? There are a few ways to do this:",
+  "source": "@site/docs/introduction/getting-involved.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/getting-involved",
+  "permalink": "/docs/introduction/getting-involved",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/getting-involved.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Getting Involved",
+    "sidebar_position": 4
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Philosophy",
+    "permalink": "/docs/introduction/philosophy"
+  },
+  "next": {
+    "title": "Joining Instructor-led Training",
+    "permalink": "/docs/introduction/instructorled"
+  }
+}

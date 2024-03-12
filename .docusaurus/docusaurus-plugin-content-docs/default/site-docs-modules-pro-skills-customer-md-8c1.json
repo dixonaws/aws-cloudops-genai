@@ -1,0 +1,28 @@
+{
+  "id": "modules/pro_skills/customer",
+  "title": "customer",
+  "description": "",
+  "source": "@site/docs/modules/pro_skills/customer.md",
+  "sourceDirName": "modules/pro_skills",
+  "slug": "/modules/pro_skills/customer",
+  "permalink": "/docs/modules/pro_skills/customer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/pro_skills/customer.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Customer Presentations",
+    "sidebar_position": 3
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Professional Skills",
+    "permalink": "/docs/modules/pro_skills/"
+  },
+  "next": {
+    "title": "Resume and Interview Prep",
+    "permalink": "/docs/modules/pro_skills/resume_interview_prep"
+  }
+}

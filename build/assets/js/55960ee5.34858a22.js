@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknew_aws_cloudops_com=self.webpackChunknew_aws_cloudops_com||[]).push([[5151],{350:o=>{o.exports=JSON.parse('[{"label":"about","permalink":"/docs/tags/about","count":1},{"label":"philosophy","permalink":"/docs/tags/philosophy","count":1}]')}}]);

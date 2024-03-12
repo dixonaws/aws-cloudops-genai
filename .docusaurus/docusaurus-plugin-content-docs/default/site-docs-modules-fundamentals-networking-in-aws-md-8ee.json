@@ -1,0 +1,29 @@
+{
+  "id": "modules/fundamentals/networking_in_aws",
+  "title": "Networking in AWS",
+  "description": "In this module, students learn some of the basics of networking, as well as specifics of networking in AWS. As",
+  "source": "@site/docs/modules/fundamentals/networking_in_aws.md",
+  "sourceDirName": "modules/fundamentals",
+  "slug": "/modules/fundamentals/networking_in_aws",
+  "permalink": "/docs/modules/fundamentals/networking_in_aws",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/fundamentals/networking_in_aws.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Networking in AWS",
+    "sidebar_position": 4,
+    "title": "Networking in AWS"
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Linux Administration Basics",
+    "permalink": "/docs/modules/fundamentals/linux"
+  },
+  "next": {
+    "title": "Storage and Data Management",
+    "permalink": "/docs/modules/fundamentals/storage"
+  }
+}

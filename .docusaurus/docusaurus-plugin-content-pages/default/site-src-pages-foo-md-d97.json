@@ -1,0 +1,8 @@
+{
+  "type": "mdx",
+  "permalink": "/foo",
+  "source": "@site/src/pages/foo.md",
+  "description": "this is my first page: src/foo.md",
+  "frontMatter": {},
+  "unlisted": false
+}

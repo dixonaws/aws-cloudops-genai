@@ -1,0 +1,29 @@
+{
+  "id": "introduction/relation-to-ai",
+  "title": "GenAI vs. AI in General",
+  "description": "Genai is big",
+  "source": "@site/docs/introduction/relation-to-ai.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/relation-to-ai",
+  "permalink": "/docs/introduction/relation-to-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/relation-to-ai.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "GenAI vs. AI in General",
+    "sidebar_position": 1,
+    "weight": 5
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Application Integrations",
+    "permalink": "/docs/introduction/integrations"
+  },
+  "next": {
+    "title": "Security and Privacy Considerations",
+    "permalink": "/docs/introduction/security"
+  }
+}

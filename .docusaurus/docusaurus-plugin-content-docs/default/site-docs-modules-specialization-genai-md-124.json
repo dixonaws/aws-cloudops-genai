@@ -1,0 +1,29 @@
+{
+  "id": "modules/specialization/genai",
+  "title": "GenAI",
+  "description": "(as of 12 Mar 2024) This section is being updated with new content:",
+  "source": "@site/docs/modules/specialization/genai.md",
+  "sourceDirName": "modules/specialization",
+  "slug": "/modules/specialization/genai",
+  "permalink": "/docs/modules/specialization/genai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/specialization/genai.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Generative AI",
+    "sidebar_position": 3,
+    "title": "GenAI"
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Specializations",
+    "permalink": "/docs/modules/specialization/"
+  },
+  "next": {
+    "title": "Containers",
+    "permalink": "/docs/modules/specialization/containers"
+  }
+}

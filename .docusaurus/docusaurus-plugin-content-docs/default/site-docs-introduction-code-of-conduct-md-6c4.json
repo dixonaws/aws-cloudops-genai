@@ -1,0 +1,28 @@
+{
+  "id": "introduction/code-of-conduct",
+  "title": "Code of Conduct",
+  "description": "Being Professional",
+  "source": "@site/docs/introduction/code-of-conduct.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/code-of-conduct",
+  "permalink": "/docs/introduction/code-of-conduct",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/code-of-conduct.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Code of Conduct",
+    "sidebar_position": 5
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Getting Involved",
+    "permalink": "/docs/introduction/getting-involved"
+  },
+  "next": {
+    "title": "Joining Instructor-led Training",
+    "permalink": "/docs/introduction/instructorled"
+  }
+}

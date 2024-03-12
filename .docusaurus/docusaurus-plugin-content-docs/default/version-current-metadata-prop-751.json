@@ -1,0 +1,147 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "introduction": [
+      {
+        "type": "category",
+        "label": "Applications of GenAI",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Enterprise Applications",
+            "href": "/docs/introduction/applications/enterprise-apps",
+            "docId": "introduction/applications/enterprise-apps",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Text and Image Generation",
+            "href": "/docs/introduction/applications/text-gen",
+            "docId": "introduction/applications/text-gen",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/introduction/applications/"
+      },
+      {
+        "type": "link",
+        "label": "Buzzwords Decoded!",
+        "href": "/docs/introduction/buzzwords",
+        "docId": "introduction/buzzwords",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/introduction/",
+        "docId": "introduction/index",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Application Integrations",
+        "href": "/docs/introduction/integrations",
+        "docId": "introduction/integrations",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "GenAI vs. AI in General",
+        "href": "/docs/introduction/relation-to-ai",
+        "docId": "introduction/relation-to-ai",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Security and Privacy Considerations",
+        "href": "/docs/introduction/security",
+        "docId": "introduction/security",
+        "unlisted": false
+      }
+    ],
+    "workshop": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/workshop/",
+        "docId": "workshop/index",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "getting_started/index": {
+      "id": "getting_started/index",
+      "title": "Getting Started",
+      "description": "Silver Lining consists of six stages, as shown below. Only one of them is hands-on, learning the material!"
+    },
+    "getting_started/learning_roadmap": {
+      "id": "getting_started/learning_roadmap",
+      "title": "Learning Roadmap",
+      "description": "Course content for each module can be found in the Modules area. Each section has associated homework"
+    },
+    "introduction/applications/enterprise-apps": {
+      "id": "introduction/applications/enterprise-apps",
+      "title": "Enterprise Applications",
+      "description": "Genai is big",
+      "sidebar": "introduction"
+    },
+    "introduction/applications/index": {
+      "id": "introduction/applications/index",
+      "title": "Applications of GenAI",
+      "description": "Genai is big",
+      "sidebar": "introduction"
+    },
+    "introduction/applications/text-gen": {
+      "id": "introduction/applications/text-gen",
+      "title": "Text and Image Generation",
+      "description": "Genai is big",
+      "sidebar": "introduction"
+    },
+    "introduction/buzzwords": {
+      "id": "introduction/buzzwords",
+      "title": "Buzzwords Decoded!",
+      "description": "Genai is big",
+      "sidebar": "introduction"
+    },
+    "introduction/index": {
+      "id": "introduction/index",
+      "title": "Introduction",
+      "description": "Genai is big",
+      "sidebar": "introduction"
+    },
+    "introduction/integrations": {
+      "id": "introduction/integrations",
+      "title": "Application Integrations",
+      "description": "Genai is big",
+      "sidebar": "introduction"
+    },
+    "introduction/relation-to-ai": {
+      "id": "introduction/relation-to-ai",
+      "title": "GenAI vs. AI in General",
+      "description": "Genai is big",
+      "sidebar": "introduction"
+    },
+    "introduction/security": {
+      "id": "introduction/security",
+      "title": "Security and Privacy Considerations",
+      "description": "Genai is big",
+      "sidebar": "introduction"
+    },
+    "workshop/index": {
+      "id": "workshop/index",
+      "title": "Introduction",
+      "description": "Genai is big",
+      "sidebar": "workshop"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "introduction/applications/enterprise-apps",
+  "title": "Enterprise Applications",
+  "description": "Genai is big",
+  "source": "@site/docs/introduction/applications/enterprise-apps.md",
+  "sourceDirName": "introduction/applications",
+  "slug": "/introduction/applications/enterprise-apps",
+  "permalink": "/docs/introduction/applications/enterprise-apps",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/applications/enterprise-apps.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Enterprise Applications",
+    "sidebar_position": 1,
+    "weight": 12
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "Applications of GenAI",
+    "permalink": "/docs/introduction/applications/"
+  },
+  "next": {
+    "title": "Text and Image Generation",
+    "permalink": "/docs/introduction/applications/text-gen"
+  }
+}

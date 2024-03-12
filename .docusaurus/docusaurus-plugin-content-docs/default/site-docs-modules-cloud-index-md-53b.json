@@ -1,0 +1,29 @@
+{
+  "id": "modules/cloud/index",
+  "title": "Cloud Administration Section",
+  "description": "In this section:",
+  "source": "@site/docs/modules/cloud/index.md",
+  "sourceDirName": "modules/cloud",
+  "slug": "/modules/cloud/",
+  "permalink": "/docs/modules/cloud/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/modules/cloud/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Cloud Administration",
+    "sidebar_position": 3,
+    "title": "Cloud Administration Section"
+  },
+  "sidebar": "modules",
+  "previous": {
+    "title": "Building 3-tier Applications",
+    "permalink": "/docs/modules/fundamentals/tier_apps"
+  },
+  "next": {
+    "title": "Security and Compliance",
+    "permalink": "/docs/modules/cloud/security"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "introduction/security",
+  "title": "Security and Privacy Considerations",
+  "description": "Genai is big",
+  "source": "@site/docs/introduction/security.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/security",
+  "permalink": "/docs/introduction/security",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/dixonaws/aws-cloudops-genai/tree/main/docs/introduction/security.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Security and Privacy Considerations",
+    "sidebar_position": 1,
+    "weight": 6
+  },
+  "sidebar": "introduction",
+  "previous": {
+    "title": "GenAI vs. AI in General",
+    "permalink": "/docs/introduction/relation-to-ai"
+  }
+}
