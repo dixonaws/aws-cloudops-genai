@@ -11,14 +11,6 @@
           "mainDocId": "introduction/applications/index",
           "docs": [
             {
-              "id": "getting_started/index",
-              "path": "/docs/getting_started/"
-            },
-            {
-              "id": "getting_started/learning_roadmap",
-              "path": "/docs/getting_started/learning_roadmap"
-            },
-            {
               "id": "introduction/applications/enterprise-apps",
               "path": "/docs/introduction/applications/enterprise-apps",
               "sidebar": "introduction"

@@ -115,14 +115,6 @@ const config = {
                         title: 'More',
                         items: [
                             {
-                                label: 'Philosophy',
-                                to: '/docs/introduction/philosophy',
-                            },
-                            {
-                                label: 'About Us',
-                                to: '/docs/introduction/about',
-                            },
-                            {
                                 label: 'GitHub',
                                 href: 'https://github.com/dixonaws/aws-cloudops-genai/',
                             },

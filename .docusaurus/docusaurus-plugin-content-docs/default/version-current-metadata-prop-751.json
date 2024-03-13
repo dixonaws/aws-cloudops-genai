@@ -79,16 +79,6 @@
     ]
   },
   "docs": {
-    "getting_started/index": {
-      "id": "getting_started/index",
-      "title": "Getting Started",
-      "description": "Silver Lining consists of six stages, as shown below. Only one of them is hands-on, learning the material!"
-    },
-    "getting_started/learning_roadmap": {
-      "id": "getting_started/learning_roadmap",
-      "title": "Learning Roadmap",
-      "description": "Course content for each module can be found in the Modules area. Each section has associated homework"
-    },
     "introduction/applications/enterprise-apps": {
       "id": "introduction/applications/enterprise-apps",
       "title": "Enterprise Applications",
